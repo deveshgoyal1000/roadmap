@@ -1,4 +1,4 @@
-# GitHub public roadmap
+# GitHub public roadmap <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="66" />
 
 :sparkle: View the [official GitHub public product roadmap](https://github.com/orgs/github/projects/4247)[^1]
 
